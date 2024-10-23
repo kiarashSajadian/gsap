@@ -65,4 +65,5 @@ const fontWeightItems = $('[data-animate=font-weight]')
       gsap.to(item, { fontWeight: fontWeight, duration: 0.5 })
     })
   })
+  
 // </script>
