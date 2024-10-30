@@ -1,5 +1,3 @@
-// ------- Osmo [https://osmo.supply/] ------- //
-
 document.addEventListener("DOMContentLoaded", function () {
   const wordList = document.querySelector("[data-looping-words-list]");
   const words = Array.from(wordList.children);
